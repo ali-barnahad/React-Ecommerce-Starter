@@ -30,5 +30,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/React-Ecommerce-Starter.git
+   git clone https://github.com/ali-barnahad/React-Ecommerce-Starter.git
    cd React-Ecommerce-Starter
